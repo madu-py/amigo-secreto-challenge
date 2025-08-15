@@ -22,9 +22,10 @@ O projeto foi desenvolvido para praticar:
 ---
 
 ##  Funcionalidades
-- ➕ **Adicionar** participantes.
-- 📋 **Exibir** lista atualizada.
-- 🎲 **Sortear** participantes.
+-  **Adicionar** participantes.
+-  **Exibir** lista atualizada.
+-  **Sortear** participantes.
+-  **Reiniciar** o sorteio.
 
 ---
 
@@ -35,9 +36,12 @@ O projeto foi desenvolvido para praticar:
 
 ---
 
-## Acesso
+## Demonstração e Acesso
 Acesse a aplicação diretamente pelo GitHub Pages:  
 👉 **[Clique aqui para abrir](https://madu-py.github.io/amigo-secreto-challenge/)**
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76a76dbb-5d23-4931-8180-27c7bb3691b2" />
+
 
 ---
 
